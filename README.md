@@ -1,6 +1,12 @@
 # SnakeBySvetlinStoychev
 A console-based Snake game implemented in C#. The game allows players to control a snake and navigate it to eat food while avoiding collisions with the snake's own body and the walls of the game screen.
 
+## Instructions:
+   1. Open this link: https://replit.com/@SvetlinStoychev/SnakeBySvetlinStoychev
+   2. Click on play button
+   3. Enjoy the game
+
+
 ## Features
 
 - Two game modes: Standard Mode and Freestyle Mode.
